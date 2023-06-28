@@ -7,7 +7,7 @@
     "@emotion/styled": "^11.10.4",
     "@google-pay/button-react": "^3.0.0",
     "@mui/lab": "^5.0.0-alpha.97",
-    "@mui/material": "^5.10.3",
+    "@mui/material": "^5.13.4",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
